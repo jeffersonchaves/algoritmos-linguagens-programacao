@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
 
+    //comentario
     srand(time(NULL));
 
     int aleatorio = rand() % 100;
